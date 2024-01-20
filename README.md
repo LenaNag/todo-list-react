@@ -1,10 +1,25 @@
 # To-do list
 
-## Description
+![To do list preview](/src/todo-list-pageview.png)
+
+## Demo version:
+
+https://lenanag.github.io/todo-list-react/
+
+## Description:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Used technologies: 
+
+- Semantic HTML;
+- CSS;
+- ES6 features;
+- Webpack;
+- Node.js;
+- Babel.
+
+## Available Scripts:
 
 In the project directory, you can run:
 
