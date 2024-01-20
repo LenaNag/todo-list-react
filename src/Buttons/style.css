@@ -1,0 +1,26 @@
+.section__buttons {
+    display: flex;
+}
+
+@media (max-width: 767px) {
+    .section__buttons {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}
+
+.section__button {
+    background-color: transparent;
+    color: teal;
+    border: none;
+    margin: 10px;
+    transition: 1s;
+}
+
+.section__button:hover {
+    color: hsl(180, 100%, 35%);
+}
+
+.section__button:disabled {
+    color: #ccc;
+}
